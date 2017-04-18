@@ -7,6 +7,8 @@ The presentation from the talk can be found [here](https://drive.google.com/file
 * [React Native & Flexbox Mini Course](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 * [YouTube React Native & Flexbox Series: 23, 24, 25](https://www.youtube.com/watch?v=ZVAQgdG75Xw)
 
+And, if you didn't see it shared in the ReactJS Singapore discussion forum, be sure to check out Rolly's great [posts](https://medium.com/react-native-training/react-native-uses-flexbox-to-layout-and-arrange-its-components-and-children-3dd4e8399bb) on React Native and Flexbox.
+
 This series of demos was created with Create React Native App. Please follow the below details should you wish to run this repo on your machine.
 
 

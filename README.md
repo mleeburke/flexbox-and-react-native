@@ -1,3 +1,17 @@
+Demos for 'React Native Flexbox: Tips, Tricks and Uncovering a few Gotchas' presented at ReactJS Singapore MeetUp on April 17.
+
+The presentation from the talk can be found [here](https://drive.google.com/file/d/0B8FxTl2KbMZmRnJodUszb29scjg/view). Links to the articles highlighted under Tips are embedded in the logo on each page and listed below:
+
+* [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [React Native Styling CheatSheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+* [React Native & Flexbox Mini Course](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6)
+* [YouTube React Native & Flexbox Series: 23, 24, 25](https://www.youtube.com/watch?v=ZVAQgdG75Xw)
+
+This series of demos was created with Create React Native App. Please follow the below details should you wish to run this repo on your machine.
+
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
